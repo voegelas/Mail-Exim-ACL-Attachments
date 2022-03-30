@@ -304,9 +304,9 @@ version 1.001
 
 =head1 DESCRIPTION
 
-A Perl module for the L<Exim|https://www.exim.org/> mailer that checks email
-attachments for blocked filenames.  Common executable, macro-enabled and
-archive file formats are identified.
+A Perl module for the Exim mailer that checks email attachments for blocked
+filenames.  Common executable, macro-enabled and archive file formats are
+identified.
 
 The list of blocked filename extensions is built from information published by
 Microsoft and Wikipedia.
