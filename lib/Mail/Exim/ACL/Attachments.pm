@@ -6,7 +6,7 @@ use 5.016;
 use warnings;
 use utf8;
 
-our $VERSION = 1.001;
+our $VERSION = 1.002;
 
 use Exporter qw(import);
 use IO::Uncompress::Unzip;
@@ -281,7 +281,7 @@ Mail::Exim::ACL::Attachments - Reject email attachments
 
 =head1 VERSION
 
-version 1.001
+version 1.002
 
 =head1 SYNOPSIS
 
