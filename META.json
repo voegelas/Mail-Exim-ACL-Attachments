@@ -57,13 +57,13 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://gitlab.com/voegelas/mail-exim-acl-attachments/-/issues"
+         "web" : "https://github.com/voegelas/Mail-Exim-ACL-Attachments/issues"
       },
-      "homepage" : "https://gitlab.com/voegelas/mail-exim-acl-attachments",
+      "homepage" : "https://github.com/voegelas/Mail-Exim-ACL-Attachments/wiki",
       "repository" : {
          "type" : "git",
-         "url" : "https://gitlab.com/voegelas/mail-exim-acl-attachments.git",
-         "web" : "https://gitlab.com/voegelas/mail-exim-acl-attachments/-/tree/main"
+         "url" : "https://github.com/voegelas/Mail-Exim-ACL-Attachments.git",
+         "web" : "https://github.com/voegelas/Mail-Exim-ACL-Attachments"
       }
    },
    "version" : "1.002",
