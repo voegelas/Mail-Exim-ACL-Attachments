@@ -398,10 +398,6 @@ distributed with Perl.
 
 None.
 
-=head1 AUTHOR
-
-Andreas Vögele E<lt>voegelas@cpan.orgE<gt>
-
 =head1 BUGS AND LIMITATIONS
 
 Legacy Microsoft Office filename extensions like F<.doc>, F<.xls> and F<.ppt>
@@ -418,6 +414,10 @@ F<.json.gz> and F<.xml.gz>.  Make sure that such messages are not rejected.
 
 Headers that are added in Exim's MIME and DATA ACLs are not available to
 SpamAssassin.  But you can pass ACL variables from the MIME to the DATA ACL.
+
+=head1 AUTHOR
+
+Andreas Vögele E<lt>voegelas@cpan.orgE<gt>
 
 =head1 LICENSE AND COPYRIGHT
 
